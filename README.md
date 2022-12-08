@@ -16,5 +16,6 @@ Abstract Factory is a creational design pattern that lets you produce families o
 Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
 ## Prototype
+Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
 ## Adapter
